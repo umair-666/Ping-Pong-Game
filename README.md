@@ -8,7 +8,15 @@ A simple and customizable ping pong game implemented using HTML, CSS, and JavaSc
 - Score tracking for both player and computer.
 - Responsive design with dynamic paddle movement.
 - Adjustable ball speed and initial velocity.
-- 
+
+## Files
+
+- **index.html:** HTML file for the game structure.
+- **styles.css:** CSS file for styling the game elements.
+- **script.js:** JavaScript file for game logic and interactivity.
+- **ball.js:** JavaScript file containing the Ball class.
+- **paddle.js:** JavaScript file containing the Paddle class.
+
 ## Setup
 
 1. Clone the repository.
