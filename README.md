@@ -33,6 +33,10 @@ A simple and customizable ping pong game implemented using HTML, CSS, and JavaSc
 - Adjust game settings in the JavaScript files.
 - Modify CSS styles in the `styles.css` file.
 
+  ## Live Preview
+- https://umair-666.github.io/Ping-Pong-Game/
+
+
 ## Credits
 
 - Developed by Umair Usman.
